@@ -14,7 +14,7 @@ const Abel = {
   nickName: "Abel",
   age: 24,
   email: "abeltruong.arena@gmail.com",
-  pronouns: "he/him",
+  position: "Web Developer",
   hobbies: ["guitar", "programming", "badminton"],
   programmingLanguages: ["Javascript", "Typescript"],
 } as const;
