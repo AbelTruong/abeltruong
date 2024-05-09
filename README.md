@@ -8,7 +8,7 @@
 
 ---
 
-```typescript
+```js
 const Abel = {
   name: "Truong Hung An",
   nickName: "Abel",
@@ -17,7 +17,7 @@ const Abel = {
   position: "Web Developer",
   hobbies: ["guitar", "programming", "badminton"],
   programmingLanguages: ["Javascript", "Typescript"],
-} as const;
+};
 ```
 
 ## 🔭 **Languages - Packages - Library - Framework:** 💻
