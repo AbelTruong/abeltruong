@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Truong Hung An, just call me Abel.
 
 <div align="center">
-  <img src="./assets/coding.jpeg" width="300px" />
+  <img src="./assets/coding.jpeg" width="300px" paddingTop="30px" />
 </div>
 
 ```typescript
