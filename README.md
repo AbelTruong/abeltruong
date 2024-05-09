@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Truong Hung An, just call me Abel.
 
-<!--
-**AbelTruong/abeltruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="./public/coding.jpeg" width="100%" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```typescript
+const Abel = {
+  name: "Truong Hung An",
+  nickName: "Abel",
+  age: 24,
+  email: "abeltruong.arena@gmail.com",
+  pronouns: "he/him",
+  hobbies: ["guitar", "programming", "badminton"],
+  programmingLanguages: ["Javascript", "Typescript"],
+} as const;
+```
