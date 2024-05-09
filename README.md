@@ -8,7 +8,7 @@
 
 ---
 
-```
+```typescript
 const Abel = {
   name: "Truong Hung An",
   nickName: "Abel",
