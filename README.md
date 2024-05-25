@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Truong Hung An, just call me Abel. 👨🏻‍💻👨🏻‍💻👨🏻‍💻
+<h1 align="center">Hi, I'm Truong Hung An, just call me Abel. I'm Web/Shopify Developer. 👨🏻‍💻👨🏻‍💻👨🏻‍💻
 
 ---
 
