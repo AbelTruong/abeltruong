@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Truong Hung An, just call me Abel.
 <h2 align="center">I'm Web/Shopify Developer. 👨🏻‍💻👨🏻‍💻👨🏻‍💻
 
+---
+
 <div align="center">
   <img src="./assets/coding.jpeg" width="500px" />
 </div>
