@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Truong Hung An, just call me Abel.
-<h2 align="center">I'm Web/Shopify Developer. 👨🏻‍💻👨🏻‍💻👨🏻‍💻
+<h2 align="center">Web / Shopify Developer. 👨🏻‍💻👨🏻‍💻👨🏻‍💻
 
 ---
 
