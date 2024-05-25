@@ -8,13 +8,13 @@
 
 ---
 
-```js
+```shell
 const Abel = {
   name: "Truong Hung An",
   nickName: "Abel",
   age: 24,
   email: "abeltruong.arena@gmail.com",
-  position: "Web Developer",
+  position: "Web Developer / Shopify Developer",
   hobbies: ["guitar", "programming", "badminton"],
   programmingLanguages: ["Javascript", "Typescript"],
 };
