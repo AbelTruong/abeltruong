@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Truong Hung An, just call me Abel.
 <h2 align="center">Web / Shopify Developer. 👨🏻‍💻👨🏻‍💻👨🏻‍💻
 
----
-
-<div align="center">
-  <img src="./assets/coding.jpeg" width="500px" />
-</div>
-
 ## 🔭 **Languages - Packages - Library - Framework:** 💻
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
